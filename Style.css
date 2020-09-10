@@ -1,0 +1,46 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: linen;
+}
+header {
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+header a {
+  margin-left: 56px;
+  color: #288be6;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-header.svg");
+}
+
+.header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-header.svg");
+}
+.subheading {
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 900;
+}
+p,
+h2 {
+  padding-left: 40px;
+}
+ul {
+  padding-left: 60px;
+}
+h1,
+img {
+  text-align: center;
+}
